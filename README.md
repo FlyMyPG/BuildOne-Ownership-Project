@@ -29,7 +29,7 @@ A curated guide to take a total beginner from zero to a working BuildOne 3D prin
     
     b. Add Features:
     
-     - BuildOne Forum for Mods:
+     - BuildOne Forum for Mods:  
         https://www.robotic.industries/community/t/buildone-mods
     
     
