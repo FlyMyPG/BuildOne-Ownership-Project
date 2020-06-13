@@ -19,30 +19,30 @@ A curated guide to take a total beginner from zero to a working BuildOne 3D prin
       
 3.  How do I make my BuildOne better?
 
-    a. Fix the Kit:
-      - Strengthen the Platform
-      - Add a Removable Build Surface
-      - Update the Firmware
+  a. Fix the Kit:  
+   - Strengthen the Platform  
+   - Add a Removable Build Surface  
+   - Update the Firmware  
     
-    c. Add Features:
-      - BuildOne Forum for Mods:  
-        https://www.robotic.industries/community/t/buildone-mods
+  c. Add Features:  
+   - BuildOne Forum for Mods:  
+     https://www.robotic.industries/community/t/buildone-mods  
     
-  4. How do I make my prints better?
+4. How do I make my prints better?
   
-   a. Filament Selection:
-   - Use only PLA at first
-   - Recommended Brands:
-     - Solutech
-     - eSun
-   - Filament Settings:
-     - Start with whatever the manufacturer recommends
-     - Print a Speed Tower
-     - Print a Temperature Tower
+  a. Filament Selection:  
+   - Use only PLA at first  
+   - Recommended Brands:  
+     - Solutech  
+     - eSun  
+   - Filament Settings:  
+     - Start with whatever the manufacturer recommends  
+     - Print a Speed Tower  
+     - Print a Temperature Tower  
     
-   b. Slicer Settings:
-   - Speed / Quality:
-     - Line Width
-     - Layer Thickness
-     - Infill
-     - Wall Thickness
+   b. Slicer Settings:  
+   - Speed / Quality:  
+     - Line Width  
+     - Layer Thickness  
+     - Infill  
+     - Wall Thickness  
