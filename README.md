@@ -16,6 +16,10 @@ A curated guide to take a total beginner from zero to a working BuildOne 3D prin
     
   - BobC's Comments on the Official Instructions:  
     https://www.robotic.industries/community/d/110-wiki-assembly-instructions-some-comments-on-what-s-been-posted-so-far/9
+    
+  - First Print:  
+    - Ready-to-Print GCODE
+    - Basic Slicing
      
 ## How do I make my BuildOne better?
   
