@@ -1,4 +1,4 @@
-# BuildOne-Ownership-Project
+# BuildOne Ownership Project
 A curated guide to take a total beginner from zero to a working BuildOne 3D printer (including First Print), and then to make it better.
 
 ## What the heck is "3D Printing"?
