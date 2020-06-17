@@ -1,13 +1,13 @@
-# The BuildOne Ownership Project
+# The BuildOne Ownership Project  
 A curated guide to take a total beginner from zero to a working BuildOne 3D printer and a great First Print, and then to make it better.
 
-## What is "3D Printing"?
-
+## What is "3D Printing"?  
   - Please watch Thomas Sanladerer's beginner playlist on YouTube:  
-    https://www.youtube.com/watch?v=nb-Bzf4nQdE&list=PLDJMid0lOOYnkcFhz6rfQ6Uj8x7meNJJx
+    https://www.youtube.com/watch?v=nb-Bzf4nQdE&list=PLDJMid0lOOYnkcFhz6rfQ6Uj8x7meNJJx  
+  - 3D Printing has it's own language.
+    - Glossary/Dictionary: https://www.3dprinting-glossary.com/full/  
 
-## How do I assemble and test my BuildOne kit?
-  
+## How do I assemble and test my BuildOne kit?  
   - Getting Ready:  
     https://www.robotic.industries/community/d/36-buildone-is-it-pre-assembled/7
 
@@ -16,7 +16,7 @@ A curated guide to take a total beginner from zero to a working BuildOne 3D prin
     
   - BobC's Comments on the Official Instructions:  
     https://www.robotic.industries/community/d/110-wiki-assembly-instructions-some-comments-on-what-s-been-posted-so-far/9
-    
+
   - Setup:  
     - Check printer is square on each axis.  
     - Manual bed leveling.  
@@ -34,7 +34,7 @@ A curated guide to take a total beginner from zero to a working BuildOne 3D prin
      - Benchy the Boat 
        - Yes, Benchy has a REAL HOME: http://www.3dbenchy.com/  Please go there instead of grabbing an inferior model elsewhere.
 
-## How do I make my BuildOne better?
+## How do I make my BuildOne better?  
   
 ### Fix the Kit:  
   - Strengthen the Platform  
