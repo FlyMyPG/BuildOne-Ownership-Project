@@ -2,7 +2,7 @@
 A curated guide to take a total beginner from zero to a working BuildOne 3D printer and a great First Print, and then to make it better.
 
 ## What is "3D Printing"?  
-  - Please watch Thomas Sanladerer's beginner playlist on YouTube:  
+  - Please watch Thomas Sanladerer's "3D Printing Basics" playlist on YouTube:  
     https://www.youtube.com/watch?v=nb-Bzf4nQdE&list=PLDJMid0lOOYnkcFhz6rfQ6Uj8x7meNJJx  
   - 3D Printing has it's own language.
     - Glossary/Dictionary: https://www.3dprinting-glossary.com/full/  
@@ -46,12 +46,16 @@ A curated guide to take a total beginner from zero to a working BuildOne 3D prin
     https://www.robotic.industries/community/t/buildone-mods  
     
 ### Maintenance:  
-  - Keep your filament dry.  
-  - Keep your print bed clean.  
-  - Keep your nozzle clean.  
-    - Cold-pull 
-    - Cleaning filament  
-    
+
+  - Continuous Maintenance:  
+    - Keep your filament dry.  
+    - Keep your print bed clean.  
+    - Keep your nozzle clean.  
+      - Cold-pull 
+      - Cleaning filament  
+  - Major Maintenance:  
+    - Overview by Maker's Muse:  
+      https://www.youtube.com/watch?v=v8SwY8yveqc    
 ## How do I make my prints better?
   
 ### Filament Selection:
