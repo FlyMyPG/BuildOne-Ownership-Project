@@ -17,7 +17,7 @@ A curated guide to take a total beginner from zero to a working BuildOne 3D prin
   - BobC's Comments on the Official Instructions:  
     https://www.robotic.industries/community/d/110-wiki-assembly-instructions-some-comments-on-what-s-been-posted-so-far/9  
     
-  - Installation of "Basic" Optional Components:  
+  - Installation of Basic Optional Components:  
     - Heated Bed  
     - Display  
 
@@ -98,7 +98,7 @@ A curated guide to take a total beginner from zero to a working BuildOne 3D prin
     - Infill  
     - Wall Thickness  
 
-# BuildOne "Major" Options  
+# BuildOne Major Options and Add-Ons  
 
 ## Laser Engraver  
 
@@ -140,4 +140,13 @@ Disadvantages:
   
 ### Dual-Filament Test Print 
   - ???
+
+## 3D Scanner  
+
+### Assembly  
+  - Erik's instructions on wiki...  
+  - Corrections to Erik's instructions...  
+  
+### The first 3D scan  
+  - One of the test prints? (Easy to verify.)  
 
