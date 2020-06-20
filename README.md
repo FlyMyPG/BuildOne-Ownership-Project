@@ -1,5 +1,5 @@
 # The BuildOne Ownership Project  
-A curated guide to take a total beginner from zero to a working BuildOne 3D printer and a great First Print, and then to make it better.
+A curated guide to take a total beginner from zero to a working BuildOne 3D printer and a great First Print, then make it better!  
 
 ## What is "3D Printing"?  
   - Please watch Thomas Sanladerer's "3D Printing Basics" playlist on YouTube:  
