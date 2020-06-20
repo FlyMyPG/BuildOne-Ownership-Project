@@ -5,8 +5,7 @@ A curated guide to take a total beginner from zero to a working BuildOne 3D prin
   - Please watch Thomas Sanladerer's "3D Printing Basics" playlist on YouTube:  
     https://www.youtube.com/watch?v=nb-Bzf4nQdE&list=PLDJMid0lOOYnkcFhz6rfQ6Uj8x7meNJJx  
     
-  - 3D Printing has it's own language.  
-    - Glossary/Dictionary: https://www.3dprinting-glossary.com/full/  
+  - 3D Printing has it's own language: https://www.3dprinting-glossary.com/full/  
 
 ## How do I assemble and test my BuildOne kit?  
   - Getting Ready:  
