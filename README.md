@@ -42,7 +42,7 @@ Ready?  Let's go!
          * [Assembly](#assembly-2)
          * [The first 3D scan](#the-first-3d-scan)
 
-_Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)_
+ > _Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)_
 
 ## What is "3D Printing"?  
   - Please watch Thomas Sanladerer's "[3D Printing Basics](https://www.youtube.com/watch?v=nb-Bzf4nQdE&list=PLDJMid0lOOYnkcFhz6rfQ6Uj8x7meNJJx)" playlist on YouTube.  
