@@ -1,4 +1,5 @@
 # The BuildOne Ownership Project  
+
 A curated guide to take a total beginner from zero to a working BuildOne 3D printer and a great First Print, then make it better!  
 
 This guide tries to provide the minimum needed to ensure initial success, and some hints for what could come next.  Beyond that, it is up to each BuildOne owner to follow their own interestes and needs, which relies on three major factors:  
@@ -14,6 +15,34 @@ This guide tries to provide the minimum needed to ensure initial success, and so
 - Ask questions!  Be fearless.  Be patient yet persistent.  Let the community know you are a beginner, and let them begin by helping you focus your question.  I recommend starting your first questions with "Is this a good place to ask about \<insert your issue\>?".  Always behave kindly, and simply ignore those who don't do likewise (no flame wars).  
 
 Ready?  Let's go!  
+
+## Table of Contents
+
+   * [The BuildOne Ownership Project](#the-buildone-ownership-project)
+      * [What is "3D Printing"?](#what-is-3d-printing)
+      * [How do I assemble and test my BuildOne kit?](#how-do-i-assemble-and-test-my-buildone-kit)
+      * [How do I make my BuildOne better?](#how-do-i-make-my-buildone-better)
+         * [Fix the Kit:](#fix-the-kit)
+         * [Add Features:](#add-features)
+         * [Maintenance:](#maintenance)
+      * [How do I make my prints better?](#how-do-i-make-my-prints-better)
+         * [Filament Selection:](#filament-selection)
+         * [Filament Settings:](#filament-settings)
+         * [Slicer Settings:](#slicer-settings)
+   * [BuildOne Major Options and Add-Ons](#buildone-major-options-and-add-ons)
+      * [Laser Engraver](#laser-engraver)
+         * [Assembly](#assembly)
+         * [The first Engraving Project](#the-first-engraving-project)
+         * [An Intensity/Speed Calibration Test Print](#an-intensityspeed-calibration-test-print)
+      * [Dual-Filament](#dual-filament)
+         * [Overview](#overview)
+         * [Assembly](#assembly-1)
+         * [Dual-Filament Test Print](#dual-filament-test-print)
+      * [3D Scanner](#3d-scanner)
+         * [Assembly](#assembly-2)
+         * [The first 3D scan](#the-first-3d-scan)
+
+_Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)_
 
 ## What is "3D Printing"?  
   - Please watch Thomas Sanladerer's "[3D Printing Basics](https://www.youtube.com/watch?v=nb-Bzf4nQdE&list=PLDJMid0lOOYnkcFhz6rfQ6Uj8x7meNJJx)" playlist on YouTube.  
