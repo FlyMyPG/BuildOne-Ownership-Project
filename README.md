@@ -86,9 +86,10 @@ Ready?  Let's go!
 
   - Second Print:  
     - Basic Slicing  
-     - Benchy the Boat 
-       - Yes, [Benchy has a True Home](http://www.3dbenchy.com/).  
-         Please go there, rather than get an inferior model elsewhere.  
+     - Benchy the Boat  
+       - You ***must*** print a Benchy. Nobody will acknowledge your existence until you do. It's a "Rite of Passage" for beginners.  
+       - Its by far the easiest way to get help with your printer and slicer, since ***everyone*** has printed a Benchy.
+       - Benchy has a [True Home](http://www.3dbenchy.com/). Please get your authentic Benchy STL file through their links.  
 
 ## How do I make my BuildOne better?  
   
