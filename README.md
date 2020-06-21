@@ -73,8 +73,10 @@ Ready?  Let's go!
     - [BobC's Comments on them](https://www.robotic.industries/community/d/110-wiki-assembly-instructions-some-comments-on-what-s-been-posted-so-far/9).  
     
   - Installation of Basic Optional Components:  
+    - Axis Upgrade  
     - Heated Bed  
     - Display  
+    - [Enclosure](https://digistump.com/wiki/buildone/enclosurekit)  
 
   - Setup:  
     - Check printer is square on each axis.  
@@ -82,6 +84,8 @@ Ready?  Let's go!
     - Format USB drive / microSD card.  
     - Slicer configuration:  
       - Cura  
+        - [Manufacturer's Configuration](https://digistump.com/wiki/buildone/cura)  
+        - Community contributions  
       - Simplify3D  
 
   - First Print:  
@@ -186,7 +190,7 @@ Disadvantages:
   _**Mod Hint:** If you also purchased the BuildOne Spare Parts Add-On, it includes a second hot-end that can be used to create a true dual hot-end mod for the BuildOne._  
 
 ### Assembly
-  - Erik's instructions on wiki...  
+  - [Manufacturer's Instructions](https://digistump.com/wiki/buildone/laserkit)  
   - Corrections to Erik's instructions...  
   
 ### Dual-Filament Test Print 
@@ -195,7 +199,7 @@ Disadvantages:
 ## 3D Scanner  
 
 ### Assembly  
-  - Erik's instructions on wiki...  
+  - [Manufacturer's Instructions](https://digistump.com/wiki/buildone/scannerkit)  
   - Corrections to Erik's instructions...  
   
 ### The first 3D scan  
