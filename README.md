@@ -138,9 +138,9 @@ Ready?  Let's go!
     - [Amazon](https://smile.amazon.com):  
       - "Amazon's Choice" means nothing special. It is just advertising, a tag sellers can purchace.  
       - "Amazon Brand" and "AmazonBasics" mean it was made just for Amazon, and generally represents good quality and value.  
-  - Recommended Brands:  
-    - Bang-for-the-Buck:  Solutech, eSun, Ziro  
-    - Masters of Filament:  Hatchboxx, Prusament, Proto-pasta, Polymaker, Colorfabb, Ninjaflex (Flexible, TPE/TPU)
+  - Examples of Name Brands:  
+    - Value (good quality & price):  Hatchboxx, Solutech, eSun, Ziro  
+    - Premium (when only the best will do):  Prusament, Proto-pasta, Polymaker, Colorfabb, Ninjaflex (Flexible, TPE/TPU)
     
 ### Filament Settings:  
   - The Basics:  
