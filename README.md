@@ -58,7 +58,7 @@ Ready?  Let's go!
 ## How do I assemble and test my BuildOne kit?  
   - Getting Ready:  
     - [Prepare your build space](https://www.robotic.industries/community/d/36-buildone-is-it-pre-assembled/7).  
-    - Gather the tools and consumables:  
+    - Gather tools and consumables:  
       - ESD Gloves [like these](https://smile.amazon.com/Global-Glove-Polyurethane-Coated-Gloves/dp/B00GWRDHIM).  Electronics can be delicate, acrylic can be sharp, and skin is easily pinched!  I use these at home and work.  
       - Hex keys. (sizes? lengths?)  I prefer ball-end ones [like these](https://www.harborfreight.com/13-piece-metric-ball-end-hex-key-set-96416.html).  
       - Nut wrenches/sockets. (sizes?)  When in doubt, a tiny 4" adjustable wrench [like this](https://smile.amazon.com/Fityle-Adjustable-Spanner-Wrench-Opening/dp/B07N2CPJPY) is useful.  
