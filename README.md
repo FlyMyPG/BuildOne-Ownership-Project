@@ -53,7 +53,7 @@ Ready?  Let's go!
     
   - [3D Printing has it's own language](https://www.3dprinting-glossary.com/full/). You won't be understood if you don't speak it. There's no need to learn what ***all*** the words mean, but do skim through it to know what words are used, then return later when you need the definition.  
   
-  - BuildOne Design: Most hobby/home 3D printers have a "[RepRap](https://reprap.org/wiki/RepRap)" design, where the bed moves horizontally.  The BuildOne has a "[CoreXY](https://all3dp.com/2/corexy-3d-printer-is-it-worth-buying/)" design that moves the bed vertically.  Another popular and distinctly different design is the "[delta](https://all3dp.com/2/what-is-a-delta-3d-printer-simply-explained/)", and there are yet [more designs](https://all3dp.com/know-your-fdm-3d-printers-cartesian-delta-polar-and-scara/) possible.  
+  - BuildOne Design: Most hobby/home 3D printers have a "[RepRap](https://reprap.org/wiki/RepRap)" design, where the bed moves horizontally.  The BuildOne has a "[CoreXY](https://all3dp.com/2/corexy-3d-printer-is-it-worth-buying/)" design that moves the bed vertically.  Another popular and distinctly different design is the "[delta](https://all3dp.com/2/what-is-a-delta-3d-printer-simply-explained/)" with a stationary bed, and there are yet [more designs](https://all3dp.com/know-your-fdm-3d-printers-cartesian-delta-polar-and-scara/) possible.  
 
 ## How do I assemble and test my BuildOne kit?  
   - Getting Ready:  
