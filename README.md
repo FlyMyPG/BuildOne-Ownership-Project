@@ -13,7 +13,7 @@ This guide tries to provide the minimum needed to ensure initial success, and so
   - [Thingiverse](https://www.thingiverse.com/) isn't just a great place to freely download ready-to-print designs, but is also a wonderful place to talk with the creators about their designs.  
 - Ask questions!  Be fearless.  Be patient yet persistent.  Let the community know you are a beginner, and let them begin by helping you focus your question.  I recommend starting your first questions with "Is this a good place to ask about \<insert your issue\>?".  Always behave kindly, and simply ignore those who don't do likewise (no flame wars).  
 
-Ready?  Here we go!  
+Ready?  Let's go!  
 
 ## What is "3D Printing"?  
   - Please watch Thomas Sanladerer's "[3D Printing Basics](https://www.youtube.com/watch?v=nb-Bzf4nQdE&list=PLDJMid0lOOYnkcFhz6rfQ6Uj8x7meNJJx)" playlist on YouTube.  
