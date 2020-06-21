@@ -23,9 +23,19 @@ Ready?  Let's go!
   - BuildOne Design: Most hobby/home 3D printers have a "[RepRap](https://reprap.org/wiki/RepRap)" design, where the bed moves horizontally.  The BuildOne has a "[CoreXY](https://all3dp.com/2/corexy-3d-printer-is-it-worth-buying/)" design that moves the bed vertically.  Another popular and distinctly different design is the "[delta](https://all3dp.com/2/what-is-a-delta-3d-printer-simply-explained/)", and there are yet [more designs](https://all3dp.com/know-your-fdm-3d-printers-cartesian-delta-polar-and-scara/) possible.  
 
 ## How do I assemble and test my BuildOne kit?  
-  - Getting Ready: [Prepare your build space](https://www.robotic.industries/community/d/36-buildone-is-it-pre-assembled/7).  
+  - Getting Ready:  
+    - [Prepare your build space](https://www.robotic.industries/community/d/36-buildone-is-it-pre-assembled/7).  
+    - Gather the tools and consumables:  
+      - ESD Gloves [like these](https://smile.amazon.com/Global-Glove-Polyurethane-Coated-Gloves/dp/B00GWRDHIM).  Electronics can be delicate, acrylic can be sharp, and skin is easily pinched!  I use these at home and work.  
+      - Hex keys. (sizes? lengths?)  I prefer ball-end ones [like these](https://www.harborfreight.com/13-piece-metric-ball-end-hex-key-set-96416.html).  
+      - Nut wrenches/sockets. (sizes?)  When in doubt, a tiny 4" adjustable wrench [like this](https://smile.amazon.com/Fityle-Adjustable-Spanner-Wrench-Opening/dp/B07N2CPJPY) is useful.  
+      - Screwdrivers. (flat, Phillips, others?)  
+      - Combination Square [like this](https://smile.amazon.com/Johnson-Level-Tool-400EM-S-Combination/dp/B00002N5O9).  
+      - Alcohol cleaning pads [like these](https://smile.amazon.com/Dynarex-Alcohol-Prep-Sterile-Medium/dp/B005BFL0RQ).  
+      - Bearing and rod lubricant [like this](https://smile.amazon.com/Super-Lube-Purpose-Synthetic-Dielectric/dp/B00KU85W4G).  
 
   - Assembly Instructions:  
+    - [Clean and lubricate](https://prusacommunity.com/set-your-bearing-straight/) every bearing and shaft before assembly!  Manufacturers coat bearings to make them last in storage, not function in use.  Do this now to avoid having to take apart your BuildOne to do it later.  
     - [Manufacturer's Instructions](https://digistump.com/wiki/buildone/basekit).  
     - [BobC's Comments on them](https://www.robotic.industries/community/d/110-wiki-assembly-instructions-some-comments-on-what-s-been-posted-so-far/9).  
     
@@ -87,7 +97,7 @@ Ready?  Let's go!
   - Generic Filament:  
     - There is very little "bad" filament on the market any more, so even inexpensive brands from reputable retailers should give excellent results.  
     - That said, beware of "too good to be true" prices on markets like eBay or AliExpress.  
-    - Amazon:  
+    - [Amazon](https://smile.amazon.com):  
       - "Amazon's Choice" means nothing special. It is just advertising, a tag sellers can purchace.  
       - "Amazon Brand" and "AmazonBasics" mean it was made just for Amazon, and generally represents good quality and value.  
   - Recommended Brands:  
