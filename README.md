@@ -16,7 +16,7 @@ This guide tries to provide the minimum needed to ensure initial success, and so
   - The [Robotic Industries Community Forum](https://www.robotic.industries/community).  Just for us.  Focused, yet limited.  
   - Reddit: The [r/3dprinting](https://www.reddit.com/r/3Dprinting/) subreddit is where folks talk about what they're doing today.  
   - [Thingiverse](https://www.thingiverse.com/) isn't just a place to freely download ready-to-print designs, but is also a place to talk with the creators about their designs.  
-- Ask questions!  Be fearless.  Be patient yet persistent.  Let the community know you are a beginner, and let them begin by helping you focus your question.  I recommend starting your first questions with "Is this a good place to ask about \<insert your issue\>?".  Always behave kindly, and simply ignore those who don't do likewise (no flame wars).  
+- Ask questions!  Be fearless.  Be patient yet persistent.  Let the community know you are a beginner, and let them begin by helping you focus your question.  I recommend starting your first questions with "Is this a good place to ask about \<*insert your topic*\>?".  Always behave kindly, and simply ignore those who don't do likewise (no flame wars).  
 
 Ready?  Let's go!  
 
@@ -49,9 +49,9 @@ Ready?  Let's go!
  > _Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)_
 
 ## What is "3D Printing"?  
-  - Please watch Thomas Sanladerer's "[3D Printing Basics](https://www.youtube.com/watch?v=nb-Bzf4nQdE&list=PLDJMid0lOOYnkcFhz6rfQ6Uj8x7meNJJx)" playlist on YouTube.  
+  - ***Please*** watch Thomas Sanladerer's "[3D Printing Basics](https://www.youtube.com/watch?v=nb-Bzf4nQdE&list=PLDJMid0lOOYnkcFhz6rfQ6Uj8x7meNJJx)" playlist on YouTube.  Seriously. This answers so many questions before you'll know they needed asking. Little from those videos is copied here, so that's the place to go for that content.  
     
-  - [3D Printing has it's own language](https://www.3dprinting-glossary.com/full/).  
+  - [3D Printing has it's own language](https://www.3dprinting-glossary.com/full/). You won't be understood if you don't speak it. There's no need to learn what ***all*** the words mean, but do skim through it to know what words are used, then return later when you need the definition.  
   
   - BuildOne Design: Most hobby/home 3D printers have a "[RepRap](https://reprap.org/wiki/RepRap)" design, where the bed moves horizontally.  The BuildOne has a "[CoreXY](https://all3dp.com/2/corexy-3d-printer-is-it-worth-buying/)" design that moves the bed vertically.  Another popular and distinctly different design is the "[delta](https://all3dp.com/2/what-is-a-delta-3d-printer-simply-explained/)", and there are yet [more designs](https://all3dp.com/know-your-fdm-3d-printers-cartesian-delta-polar-and-scara/) possible.  
 
