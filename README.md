@@ -4,7 +4,7 @@ A curated guide to take a total beginner from zero to a working BuildOne 3D prin
 
 ***Please read everything!***  Even if you are highly experienced, this will ensure you know what is being shared with our beginners.
 
-***Please follow every link!***  This document is all about the links. Words will be deleted as better links are found.
+***Please follow every link!***  This document is all about the links. Words will be deleted as more and better links are found.
 
 This guide tries to provide the minimum needed to ensure initial success, and some hints for what could come next.  Beyond that, it is up to each BuildOne owner to follow their own interestes and needs, which relies on three major factors:  
 - Self-education: It is easy to become overwhelmed by the amount of knowledge and skill needed to become proficient in 3D Printing and 3D Design.  
