@@ -12,7 +12,7 @@ This guide tries to provide the minimum needed to ensure initial success, and so
   - Going beyond the links here is simplified by becoming proficient at using search engines.  
     - Learn the "[language](https://www.3dprinting-glossary.com/full/)" of 3D printing, so you can search for things using the same words others use.  
     - Learn search engine "[tricks](https://www.google.com/search?client=opera&q=search+engine+tricks&sourceid=opera&ie=UTF-8&oe=UTF-8)" to reduce junk in the results.  The most important of these are the [search results filters](https://support.google.com/websearch/answer/142143?hl=en), of which I find the `Tools → Any time → Past year` filter most useful to help me focus on the newest information.  
-- Join the Community: There are an endless number of online communities for 3D printing.  The following examples are good places to start, each of which will lead you to others:  
+- Join the Community: There are countless online communities for 3D printing.  The following examples are good places to start, each of which will lead you to others:  
   - The [Robotic Industries Community Forum](https://www.robotic.industries/community).  Just for us.  Focused, yet limited.  
   - Reddit: The [r/3dprinting](https://www.reddit.com/r/3Dprinting/) subreddit is where folks talk about what they're doing today.  
   - [Thingiverse](https://www.thingiverse.com/) isn't just a place to freely download ready-to-print designs, but is also a place to talk with the creators about their designs.  
